@@ -1,4 +1,4 @@
-<h1 align="center">Farshid A. Barough</h1>
+<h1 align="center">Farshid</h1>
 
 <p align="center">
   <strong>Systems Engineer &nbsp;·&nbsp; Founder &amp; Owner of Artifaktory</strong><br />
