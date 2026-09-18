@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">From hardware to intelligent systems</title>
+  <desc id="desc">A dark technical banner with turquoise orbital geometry. Embedded, trading, AI tooling and infrastructure.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1423"/>
+      <stop offset="1" stop-color="#111F31"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#36C9C1" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#36C9C1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#43D5C6"/>
+      <stop offset="1" stop-color="#43D5C6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1280" height="360" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="360" fill="url(#background)"/>
+    <ellipse cx="1036" cy="164" rx="330" ry="310" fill="url(#glow)"/>
+    <g fill="none" stroke="#60869D" stroke-opacity="0.09" stroke-width="1">
+      <path d="M816 0V360M884 0V360M952 0V360M1020 0V360M1088 0V360M1156 0V360M1224 0V360"/>
+      <path d="M784 40H1280M784 108H1280M784 176H1280M784 244H1280M784 312H1280"/>
+    </g>
+    <rect x="54" y="49" width="5" height="17" rx="2" fill="#54D6C8"/>
+    <text x="75" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="2.5" fill="#9CB3C9">ENGINEERING · SYSTEMS · AUTOMATION</text>
+    <text x="53" y="137" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-1.7" fill="#F4F7FB">From hardware</text>
+    <text x="53" y="204" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-1.7" fill="#F4F7FB">to intelligent systems.</text>
+    <text x="56" y="253" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#A8BDCE">Build with intent. Automate with control.</text>
+    <path d="M55 285H735" stroke="url(#line)" stroke-opacity="0.46"/>
+    <text x="56" y="318" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="1.9" font-weight="600" fill="#93AABE">EMBEDDED</text>
+    <text x="164" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#487185">/</text>
+    <text x="188" y="318" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="1.9" font-weight="600" fill="#93AABE">TRADING</text>
+    <text x="283" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#487185">/</text>
+    <text x="307" y="318" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="1.9" font-weight="600" fill="#93AABE">AI TOOLING</text>
+    <text x="430" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#487185">/</text>
+    <text x="454" y="318" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="1.9" font-weight="600" fill="#93AABE">INFRASTRUCTURE</text>
+    <g transform="translate(1033 175)" fill="none">
+      <circle r="148" stroke="#3C7182" stroke-opacity="0.28"/>
+      <circle r="106" stroke="#558697" stroke-opacity="0.32"/>
+      <circle r="59" stroke="#437F8C" stroke-opacity="0.4"/>
+      <ellipse rx="163" ry="68" transform="rotate(-35)" stroke="#55D3C6" stroke-opacity="0.55" stroke-width="1.7"/>
+      <ellipse rx="142" ry="64" transform="rotate(41)" stroke="#669AAF" stroke-opacity="0.34"/>
+      <path d="M-105 -104 A148 148 0 0 1 100 -109" stroke="#75D9CB" stroke-width="2" stroke-opacity="0.7"/>
+      <path d="M-87 139L-130 175M113 -106L158 -151" stroke="#4C8D9B" stroke-opacity="0.7"/>
+      <rect x="-28" y="-28" width="56" height="56" rx="12" fill="#122C3B" stroke="#50C7BD" stroke-width="1.5"/>
+      <path d="M-13 -8L-21 0L-13 8M13 -8L21 0L13 8M5 -14L-5 14" stroke="#9EEADD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="#80E3D4" stroke="#122838" stroke-width="4">
+        <circle cx="-122" cy="84" r="7"/>
+        <circle cx="83" cy="-65" r="6"/>
+        <circle cx="118" cy="47" r="5.5"/>
+      </g>
+      <circle cx="-49" cy="-93" r="4" fill="#749AAE"/>
+      <circle cx="37" cy="46" r="3" fill="#749AAE"/>
+    </g>
+    <rect x="0.5" y="0.5" width="1279" height="359" rx="15.5" fill="none" stroke="#6E91A7" stroke-opacity="0.15"/>
+  </g>
+</svg>
